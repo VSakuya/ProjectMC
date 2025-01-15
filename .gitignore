@@ -18,3 +18,5 @@
 **/PCL/
 **/versions/
 **/assets/
+.minecraft/launcher_profiles.json
+.minecraft/PCL.ini
