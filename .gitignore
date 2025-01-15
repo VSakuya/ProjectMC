@@ -1,0 +1,17 @@
+**/xaero/
+**/XaeroWaypoints*/
+**/tacz/
+**/tacz_backup/
+**/screenshots/
+**/config/
+**/saves/
+**/crash-reports/
+**/defaultconfigs/
+**/logs/
+**/options.txt
+**/optionsof.txt
+**/servers.dat
+**/servers.dat*
+**/optionsshaders.txt
+**/usercache.json
+**/usernamecache.json
