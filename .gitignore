@@ -21,3 +21,7 @@ PCL/
 .minecraft/assets/
 .minecraft/launcher_profiles.json
 .minecraft/PCL.ini
+.minecraft/patchouli_data.json
+.minecraft/hammerlib/improvableskills/news_zh.sha
+.minecraft/hammerlib/improvableskills/news_zh.txt
+.minecraft/hammerlib/improvableskills/news.sha
